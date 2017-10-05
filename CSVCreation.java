@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 
-public class CSVCreation {
+public class releaseCSVCreation {
 	
 	
 	public static void buildingCSV(HashMap<Integer, ArrayList<CSVDTO>> CSVdata , HashMap<Integer, String> CSVDomain)throws IOException{
