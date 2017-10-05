@@ -15,7 +15,7 @@ public class CSVCreation {
 		BufferedWriter writer = null;
         String fileName = "D:/CSVTest/test.csv";
             try {
-            	
+            	System.out.println("test commit");
 				writer = new BufferedWriter(new OutputStreamWriter(
 				        new FileOutputStream(fileName, true), "UTF8"));
 				//for domain headings
