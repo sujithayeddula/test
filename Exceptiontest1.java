@@ -7,7 +7,7 @@ public class Exceptiontest1 {
 		
 		}
 		catch(Exception e){
-				System.out.println("maine");
+				System.out.println("maineDEVELOP");
 	         }
 		System.out.println("test3");
 	}
